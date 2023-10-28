@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Python and Django
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me @lionheart__01 on twitter
+- 📫 Reach me @lionheart__01 on twitter
 
 <!---
 mikeoladapo/mikeoladapo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
