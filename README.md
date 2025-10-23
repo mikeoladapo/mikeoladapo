@@ -38,8 +38,8 @@ You can reach out to me through the following platforms:
 - 💼 **LinkedIn**: [Micheal Oladokun](https://www.linkedin.com/in/micheal-oladokun-942524260?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIF0fNijpTr%2BdH4iMZ%2F6WBA%3D%3D)
 
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikeoladapo&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<! ## 📊 GitHub Stats:>
+< ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikeoladapo&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> >
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mikeoladapo&theme=dark&border_radius=5)](https://git.io/streak-stats)<br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mikeoladapo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
