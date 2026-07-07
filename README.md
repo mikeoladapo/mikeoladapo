@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lionheart
-- ⚡ I'm an Entreprenuer,Innovator and Software Developer
--  👀 I’m interested in Backend Development ,API Development ,Software Developmet
-- 🌱 I write Python,Django and Django Restframework
+- ⚡ I'm an Entreprenuer,Innovator,AI & Software Engineer
+-  👀 I’m interested in Backend Engineering ,AI Engineering and API Development
+- 🌱 I write Python,Django ,Django Restframework, FastAPI
 -  🌱 I’m currently learning more about APIs and microservices.
 - 💬 Ask me about Python, Django, REST APIs, and database management!
 - 😄 Pronouns: he/him
