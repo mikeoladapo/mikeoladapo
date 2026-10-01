@@ -95,7 +95,7 @@ I'm passionate about building intelligent software systems that solve real-world
 
 📧 **Email:** [mikeoladapo2004@gmail.com](mailto:mikeoladapo2004@gmail.com)
 
-💼 **LinkedIn:** https://www.linkedin.com/in/micheal-oladokun-942524260
+💼 **LinkedIn:** https://www.linkedin.com/in/micheal-oladokun
 
 ---
 
